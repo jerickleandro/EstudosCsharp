@@ -1,0 +1,7 @@
+C:\Users\Erick Leandro\source\repos\Lembretes\Lembretes\bin\Debug\Lembretes.exe.config
+C:\Users\Erick Leandro\source\repos\Lembretes\Lembretes\bin\Debug\Lembretes.exe
+C:\Users\Erick Leandro\source\repos\Lembretes\Lembretes\bin\Debug\Lembretes.pdb
+C:\Users\Erick Leandro\source\repos\Lembretes\Lembretes\obj\Debug\Lembretes.csprojAssemblyReference.cache
+C:\Users\Erick Leandro\source\repos\Lembretes\Lembretes\obj\Debug\Lembretes.csproj.CoreCompileInputs.cache
+C:\Users\Erick Leandro\source\repos\Lembretes\Lembretes\obj\Debug\Lembretes.exe
+C:\Users\Erick Leandro\source\repos\Lembretes\Lembretes\obj\Debug\Lembretes.pdb

@@ -1,0 +1,7 @@
+C:\Users\Erick Leandro\source\repos\expoo05\expoo05\obj\Debug\expoo05.csprojAssemblyReference.cache
+C:\Users\Erick Leandro\source\repos\expoo05\expoo05\obj\Debug\expoo05.csproj.CoreCompileInputs.cache
+C:\Users\Erick Leandro\source\repos\expoo05\expoo05\bin\Debug\expoo05.exe.config
+C:\Users\Erick Leandro\source\repos\expoo05\expoo05\bin\Debug\expoo05.exe
+C:\Users\Erick Leandro\source\repos\expoo05\expoo05\bin\Debug\expoo05.pdb
+C:\Users\Erick Leandro\source\repos\expoo05\expoo05\obj\Debug\expoo05.exe
+C:\Users\Erick Leandro\source\repos\expoo05\expoo05\obj\Debug\expoo05.pdb

@@ -1,0 +1,7 @@
+C:\Users\Erick Leandro\source\repos\Cap9Au1\Cap9Au1\bin\Debug\Cap9Au1.exe.config
+C:\Users\Erick Leandro\source\repos\Cap9Au1\Cap9Au1\bin\Debug\Cap9Au1.exe
+C:\Users\Erick Leandro\source\repos\Cap9Au1\Cap9Au1\bin\Debug\Cap9Au1.pdb
+C:\Users\Erick Leandro\source\repos\Cap9Au1\Cap9Au1\obj\Debug\Cap9Au1.csprojAssemblyReference.cache
+C:\Users\Erick Leandro\source\repos\Cap9Au1\Cap9Au1\obj\Debug\Cap9Au1.csproj.CoreCompileInputs.cache
+C:\Users\Erick Leandro\source\repos\Cap9Au1\Cap9Au1\obj\Debug\Cap9Au1.exe
+C:\Users\Erick Leandro\source\repos\Cap9Au1\Cap9Au1\obj\Debug\Cap9Au1.pdb

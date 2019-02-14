@@ -1,0 +1,7 @@
+C:\Users\Erick Leandro\source\repos\Cap10Heranca\Cap10Heranca\bin\Debug\Cap10Heranca.exe.config
+C:\Users\Erick Leandro\source\repos\Cap10Heranca\Cap10Heranca\bin\Debug\Cap10Heranca.exe
+C:\Users\Erick Leandro\source\repos\Cap10Heranca\Cap10Heranca\bin\Debug\Cap10Heranca.pdb
+C:\Users\Erick Leandro\source\repos\Cap10Heranca\Cap10Heranca\obj\Debug\Cap10Heranca.csprojAssemblyReference.cache
+C:\Users\Erick Leandro\source\repos\Cap10Heranca\Cap10Heranca\obj\Debug\Cap10Heranca.csproj.CoreCompileInputs.cache
+C:\Users\Erick Leandro\source\repos\Cap10Heranca\Cap10Heranca\obj\Debug\Cap10Heranca.exe
+C:\Users\Erick Leandro\source\repos\Cap10Heranca\Cap10Heranca\obj\Debug\Cap10Heranca.pdb

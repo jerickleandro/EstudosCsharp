@@ -1,0 +1,7 @@
+C:\Users\Erick Leandro\source\repos\Cap10Ex2\Cap10Ex2\bin\Debug\Cap10Ex2.exe.config
+C:\Users\Erick Leandro\source\repos\Cap10Ex2\Cap10Ex2\bin\Debug\Cap10Ex2.exe
+C:\Users\Erick Leandro\source\repos\Cap10Ex2\Cap10Ex2\bin\Debug\Cap10Ex2.pdb
+C:\Users\Erick Leandro\source\repos\Cap10Ex2\Cap10Ex2\obj\Debug\Cap10Ex2.csprojAssemblyReference.cache
+C:\Users\Erick Leandro\source\repos\Cap10Ex2\Cap10Ex2\obj\Debug\Cap10Ex2.csproj.CoreCompileInputs.cache
+C:\Users\Erick Leandro\source\repos\Cap10Ex2\Cap10Ex2\obj\Debug\Cap10Ex2.exe
+C:\Users\Erick Leandro\source\repos\Cap10Ex2\Cap10Ex2\obj\Debug\Cap10Ex2.pdb

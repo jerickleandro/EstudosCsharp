@@ -1,0 +1,7 @@
+C:\Users\Erick Leandro\source\repos\Cap10AbstractMethod\Cap10AbstractMethod\bin\Debug\Cap10AbstractMethod.exe.config
+C:\Users\Erick Leandro\source\repos\Cap10AbstractMethod\Cap10AbstractMethod\bin\Debug\Cap10AbstractMethod.exe
+C:\Users\Erick Leandro\source\repos\Cap10AbstractMethod\Cap10AbstractMethod\bin\Debug\Cap10AbstractMethod.pdb
+C:\Users\Erick Leandro\source\repos\Cap10AbstractMethod\Cap10AbstractMethod\obj\Debug\Cap10AbstractMethod.csprojAssemblyReference.cache
+C:\Users\Erick Leandro\source\repos\Cap10AbstractMethod\Cap10AbstractMethod\obj\Debug\Cap10AbstractMethod.csproj.CoreCompileInputs.cache
+C:\Users\Erick Leandro\source\repos\Cap10AbstractMethod\Cap10AbstractMethod\obj\Debug\Cap10AbstractMethod.exe
+C:\Users\Erick Leandro\source\repos\Cap10AbstractMethod\Cap10AbstractMethod\obj\Debug\Cap10AbstractMethod.pdb

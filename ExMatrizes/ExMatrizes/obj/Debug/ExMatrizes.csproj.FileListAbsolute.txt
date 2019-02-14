@@ -1,0 +1,7 @@
+C:\Users\Erick Leandro\source\repos\ExMatrizes\ExMatrizes\bin\Debug\ExMatrizes.exe.config
+C:\Users\Erick Leandro\source\repos\ExMatrizes\ExMatrizes\bin\Debug\ExMatrizes.exe
+C:\Users\Erick Leandro\source\repos\ExMatrizes\ExMatrizes\bin\Debug\ExMatrizes.pdb
+C:\Users\Erick Leandro\source\repos\ExMatrizes\ExMatrizes\obj\Debug\ExMatrizes.csproj.CoreCompileInputs.cache
+C:\Users\Erick Leandro\source\repos\ExMatrizes\ExMatrizes\obj\Debug\ExMatrizes.exe
+C:\Users\Erick Leandro\source\repos\ExMatrizes\ExMatrizes\obj\Debug\ExMatrizes.pdb
+C:\Users\Erick Leandro\source\repos\ExMatrizes\ExMatrizes\obj\Debug\ExMatrizes.csprojAssemblyReference.cache

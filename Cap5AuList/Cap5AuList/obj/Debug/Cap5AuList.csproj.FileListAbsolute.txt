@@ -1,0 +1,7 @@
+C:\Users\Erick Leandro\source\repos\Cap5AuList\Cap5AuList\bin\Debug\Cap5AuList.exe.config
+C:\Users\Erick Leandro\source\repos\Cap5AuList\Cap5AuList\bin\Debug\Cap5AuList.exe
+C:\Users\Erick Leandro\source\repos\Cap5AuList\Cap5AuList\bin\Debug\Cap5AuList.pdb
+C:\Users\Erick Leandro\source\repos\Cap5AuList\Cap5AuList\obj\Debug\Cap5AuList.csprojAssemblyReference.cache
+C:\Users\Erick Leandro\source\repos\Cap5AuList\Cap5AuList\obj\Debug\Cap5AuList.csproj.CoreCompileInputs.cache
+C:\Users\Erick Leandro\source\repos\Cap5AuList\Cap5AuList\obj\Debug\Cap5AuList.exe
+C:\Users\Erick Leandro\source\repos\Cap5AuList\Cap5AuList\obj\Debug\Cap5AuList.pdb
